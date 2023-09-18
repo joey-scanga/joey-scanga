@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joey Scanga</h1>
 <h3 align="center">An aspiring fullstack developer from the St. Louis area</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joey-scanga" alt="joey-scanga" /></a> </p>
-
 - 🔭 I’m currently working on **learning to build dApps on the Ethereum blockchain!**
 
 - 🌱 I’m currently learning **React.js, Next.js, Bun, Solidity**

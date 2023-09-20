@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning to build dApps on the Ethereum blockchain!**
 
-- 🌱 I’m currently learning **React.js, Next.js, Bun, Solidity**
+- 🌱 I’m currently learning **Python, React.js, Next.js, Bun, Solidity**
 
 - 👯 I’m looking to collaborate on **web3 related projects**
 

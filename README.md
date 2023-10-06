@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joey Scanga</h1>
 <h3 align="center">An aspiring fullstack developer from the St. Louis area</h3>
 
-- 🔭 I’m currently working on **learning to build dApps on the Ethereum blockchain!**
+- 🔭 I’m currently working on **learning to build reactive web apps with Next.js!**
 
 - 🌱 I’m currently learning **Python, React.js, Next.js, Bun, Solidity**
 
-- 👯 I’m looking to collaborate on **web3 related projects**
+- 👯 I’m looking to collaborate on **frontend or web3 related projects**
 
 - 📫 How to reach me **joeyscanga92@gmail.com**
 
